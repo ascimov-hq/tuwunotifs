@@ -1,0 +1,4 @@
+fcm_project_id: ascimov-test
+app_ids:
+  - com.ascimov.app.android
+  - com.ascimov.app.ios
